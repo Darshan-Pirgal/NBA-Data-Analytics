@@ -7,7 +7,6 @@ $ cd /required_directory
 $ git clone https://github.com/Darshan-Pirgal/NBA-Data-Analytics.git
 
 Requirements:
-Library | Version
 Software or Library | Version
 ------- | ---------
 Python | 3.6 or greater
