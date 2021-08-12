@@ -1,5 +1,5 @@
 # DA_SSSD-Basketball-Players-Stats: UE18CS312-Data analytics project 
-## Team members: Swaroop BS, Sudharmendra GV, Darshan Pirgal, Sujith K
+## Team members: Darshan Pirgal, Swaroop BS, Sudharmendra GV, Sujith K
 
 # To run the code:
 $ cd /required_directory
