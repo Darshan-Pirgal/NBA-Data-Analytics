@@ -4,7 +4,7 @@
 # To run the code:
 $ cd /required_directory
 
-$ git clone https://github.com/Sujith1910/DA_SSSD-Basketball-Players-Stats.git
+$ git clone https://github.com/Darshan-Pirgal/NBA-Data-Analytics.git
 
 Requirements:
 Software or Library | Version
