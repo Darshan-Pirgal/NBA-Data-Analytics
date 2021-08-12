@@ -1,10 +1,10 @@
-# DA_SSSD-Basketball-Players-Stats: UE18CS312-Data analytics project 
-## Team members: Swaroop BS, Sudharmendra GV, Darshan Pirgal, Sujith K
+# NBA-Data-Analytics
+## Team members: Darshan Pirgal, Swaroop BS, Sudharmendra GV, Sujith K
 
 # To run the code:
 $ cd /required_directory
 
-$ git clone https://github.com/Sujith1910/DA_SSSD-Basketball-Players-Stats.git
+$ git clone https://github.com/Darshan-Pirgal/NBA-Data-Analytics.git
 
 Requirements:
 Software or Library | Version
